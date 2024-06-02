@@ -1,0 +1,11 @@
+
+‰
+java:S1192"HDefine a constant instead of duplicating this literal "unknown" 3 times.(í¾şèÿÿÿÿÿJ$831bb588-ff78-4dbe-9eb1-9ca6d5e5b9b8
+p
+java:S1066-"/Merge this if statement with the enclosing one.(äÊåîùÿÿÿÿJ$07e9133e-9a8e-426d-9667-00d9cb29ca69
+{
+java:S1118":Add a private constructor to hide the implicit public one.(Œµ©ìÿÿÿÿÿJ$88e71aaf-0473-4e97-a057-9c2eebf02eee
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Àõç<J$d45f58f0-b5b5-4b9d-a1e9-ce7d32e2825c
+r
+java:S2692-"10 is a valid index, but is ignored by this check.(äÊåîùÿÿÿÿJ$9d57daa7-9e69-4b9b-90a5-73f93144b522
